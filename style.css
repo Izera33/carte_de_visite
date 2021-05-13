@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Calligraffitiregular';
+    font-family: 'calligraffitiregular';
     src: url(fonts/'Calligraffiti-webfont.eot');
     src: url(fonts/'Calligraffiti-webfont.woff');
     src: url(fonts/'Calligraffiti-webfont.ttf');
@@ -10,7 +10,7 @@
 
 body
 {
-    font-family: 'Calligraffitiregular', Geogia, Arial, sans-serif;
+    font-family: 'calligraffitiregular', Geogia, Arial, sans-serif;
     text-align: justify;
     background: url("wallpaper.png");
 
@@ -35,7 +35,7 @@ p
 .quality
 {
     list-style-type: kannada;
-    margin-left :200px;
+    margin-left :220px;
     margin-top: 30px;
     color: rgb(80, 237, 18);
     font-size: 1.1em;
@@ -54,7 +54,7 @@ p
 .presentation
 {
     clear: left;
-    margin-top: 70px;
+    margin-top: 100px;
     font-weight: bold;
 }
 
