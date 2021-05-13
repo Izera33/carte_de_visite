@@ -1,0 +1,86 @@
+@font-face {
+    font-family: 'calligraffitiregular';
+    src: url('fonts/Calligraffiti-webfont.eot');
+    src: url('fonts/Calligraffiti-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Calligraffiti-webfont.woff2') format('woff2'),
+         url('fonts/Calligraffiti-webfont.woff') format('woff'),
+         url('fonts/Calligraffiti-webfont.ttf') format('truetype'),
+         url('fonts/Calligraffiti-webfont.svg#calligraffitiregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body
+{
+    font-family: 'calligraffitiregular', Geogia, Arial, sans-serif;
+    text-align: justify;
+    background: url("wallpaper.png");
+
+}
+
+h1
+{
+	text-decoration: underline;
+    color: rgb(120, 20, 20);
+    text-shadow: 6px 6px 6px brown;
+    text-align: center;
+
+}
+
+p
+{
+    color: rgb(38, 176, 237);
+    margin-left: 10px;
+    font-size: 1.1em;
+}
+
+.quality
+{
+    list-style-type: kannada;
+    margin-left :200px;
+    margin-top: 30px;
+    color: rgb(80, 237, 18);
+    font-size: 1.1em;
+    font-weight: bold;
+
+}
+
+.imageflottante
+{
+    float: left;
+    width: 200px;
+    height: 300px;
+    box-shadow: 6px 6px 6px black;
+}
+
+.presentation
+{
+    clear: left;
+    margin-top: 40px;
+    font-weight: bold;
+}
+
+.raisons
+{
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+ #conteneur
+ {
+    display: flex;
+    flex-wrap: wrap;
+ }
+
+ .element
+ {
+    margin: auto;
+ }
+ 
+ .openclassrooms
+ {
+    width: 700px;
+    height: 400px;
+    box-shadow: 6px 6px 6px black;
+ }
+ 
