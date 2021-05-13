@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'Calligraffitiregular';
-    src: url('Calligraffiti-webfont.eot');
-    src: url('Calligraffiti-webfont.woff');
-    src: url('Calligraffiti-webfont.ttf');
-    src: url('Calligraffiti-webfont.svg#calligraffitiregular');
+    src: url(fonts/'Calligraffiti-webfont.eot');
+    src: url(fonts/'Calligraffiti-webfont.woff');
+    src: url(fonts/'Calligraffiti-webfont.ttf');
+    src: url(fonts/'Calligraffiti-webfont.svg#calligraffitiregular');
     font-weight: normal;
     font-style: normal;
 }
