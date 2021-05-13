@@ -1,18 +1,16 @@
 @font-face {
-    font-family: 'calligraffitiregular';
+    font-family: 'Calligraffitiregular';
     src: url('Calligraffiti-webfont.eot');
-    src: url('Calligraffiti-webfont.eot?#iefix') format('embedded-opentype'),
-         url('Calligraffiti-webfont.woff2') format('woff2'),
-         url('Calligraffiti-webfont.woff') format('woff'),
-         url('Calligraffiti-webfont.ttf') format('truetype'),
-         url('Calligraffiti-webfont.svg#calligraffitiregular') format('svg');
+    src: url('Calligraffiti-webfont.woff');
+    src: url('Calligraffiti-webfont.ttf');
+    src: url('Calligraffiti-webfont.svg#calligraffitiregular');
     font-weight: normal;
     font-style: normal;
 }
 
 body
 {
-    font-family: 'calligraffitiregular', Geogia, Arial, sans-serif;
+    font-family: 'Calligraffitiregular', Geogia, Arial, sans-serif;
     text-align: justify;
     background: url("wallpaper.png");
 
@@ -56,7 +54,7 @@ p
 .presentation
 {
     clear: left;
-    margin-top: 50px;
+    margin-top: 70px;
     font-weight: bold;
 }
 
