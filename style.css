@@ -10,6 +10,12 @@
     font-style: normal;
 }
 
+title
+{
+	 font-family: 'calligraffitiregular', Geogia, Arial, sans-serif;
+	color: brown;
+}
+
 body
 {
     font-family: 'calligraffitiregular', Geogia, Arial, sans-serif;
